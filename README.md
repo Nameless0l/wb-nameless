@@ -1,2 +1,0 @@
-# wb-nameless
-Bot
